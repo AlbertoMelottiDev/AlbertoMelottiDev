@@ -1,5 +1,9 @@
 ### 👋 Hi, I'm Alberto 
 
+🧑🏼‍💻 Web Developer at ParentesiKuadra<br/>
+📚 Studying Computer Science at University<br/>
+💭 Currently learning about React & Laravel
+
 <!--
 **AlbertoMelottiDev/AlbertoMelottiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
