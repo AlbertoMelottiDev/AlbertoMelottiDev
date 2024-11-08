@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alberto
-🧑🏼‍💻 Web Developer at ParentesiKuadra<br/><br>📚 Studying Computer Science at University<br/><br>💭 Currently learning about React & Laravel<br/><br/>
+🧑🏼‍💻 Web Developer at ParentesiKuadra<br/>🎧 DJ for ScuolaZoo. Check out my Instagram<br/><br>📚 Studying Computer Science at University<br/><br>💭 Currently learning about React & Laravel<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=AlbertoMelottiDev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 # 💻 Tech Stack :
