@@ -15,7 +15,7 @@
 ## 🌐 Socials  :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alberto_melotti/?hl=it) 
 
-<!--### 🔝  Top Contributed Repo      .
+<!--### 🔝  Top Contributed Repo       .
 ![](https://github-contributor-stats.vercel.app/api?username=AlbertoMelottiDev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 -->
 
