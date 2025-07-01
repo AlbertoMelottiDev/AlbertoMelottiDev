@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlbertoMelottiDev&theme=transparent&hide_border=true) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoMelottiDev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials          : 
+## 🌐 Socials           : 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alberto_melotti/?hl=it) 
 
 <!--### 🔝  Top Contributed Repo                  .
